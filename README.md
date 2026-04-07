@@ -10,7 +10,6 @@
 
 ---
 Read this in Russian: [README_RU.md](README_RU.md)
-
 ## 📌 Overview
 
 This project demonstrates a **real-world CI/CD pipeline** for a Python web application.
